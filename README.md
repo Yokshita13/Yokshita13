@@ -15,12 +15,12 @@ I'm a 17-year-old kid with a keen interest in creating dynamic and visually appe
 . Snake Game A Snake game with leaderboard and high score tracking, developed in Python. This project emphasizes my capacity to develop complex game features and manage game state.
 
 ## Skills
-. HTML: Proficient in structuring and creating semantic web pages.
-. CSS: Experienced in designing responsive layouts and animations.
-. JavaScript: Skilled in developing interactive and dynamic web applications and games.
-. Python: Knowledgeable in game development and solving problems.
+1. HTML: Proficient in structuring and creating semantic web pages.
+2. CSS: Experienced in designing responsive layouts and animations.
+3. JavaScript: Skilled in developing interactive and dynamic web applications and games.
+4. Python: Knowledgeable in game development and solving problems.
 
 #### Feel free to connect with me through the following platforms :)
 
-. Instagram: yokshita_13
-. GitHub: Yokshita13
+1. Instagram: yokshita_13
+2. GitHub: Yokshita13

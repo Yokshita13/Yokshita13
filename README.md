@@ -23,4 +23,4 @@ I'm a 17-year-old kid with a keen interest in creating dynamic and visually appe
 #### Feel free to connect with me through the following platforms :)
 
 1. Instagram: https://www.instagram.com/yokshita_13
-3. GitHub: github.com/Yokshita13
+3. GitHub:  https://www.github.com/Yokshita13

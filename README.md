@@ -1,26 +1,19 @@
-Welcome to my portfolio! I'm Yokshita, a passionate web developer with skills in HTML, CSS, JavaScript, and Python. This portfolio highlights my projects, showcasing my ability to create both engaging web applications and innovative games.
+<h1 align="center">Hi 👋, I'm Yokshita</h1>
+<h3 align="center">I'm a 17-year-old kid with a keen interest in creating dynamic and visually appealing websites. My journey began with learning the basics of web development and has since evolved into a passion for building interactive applications and games. I am committed to continuous learning and improving my skills in the ever-evolving field of technology.</h3>
+<img align="right" alt=coding" width="300" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
-## About Me
-I'm a 17-year-old kid with a keen interest in creating dynamic and visually appealing websites. My journey began with learning the basics of web development and has since evolved into a passion for building interactive applications and games. I am committed to continuous learning and improving my skills in the ever-evolving field of technology.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yokshita13&label=Profile%20views&color=0e75b6&style=flat" alt="yokshita13" /> </p>
 
-## My Projects
-. Responsive E-Commerce Website A fully responsive website developed using HTML, CSS, and JavaScript. It features a customizable landing page and interactive elements to enhance user experience.
+- 👨‍💻 All of my projects are available at [https://www.github.com/Yokshita13](https://www.github.com/Yokshita13)
 
-. Flappy Bird Clone A Python-based game that replicates the mechanics of the popular Flappy Bird game. This project demonstrates my ability to develop engaging and interactive game experiences.
+- 📫 How to reach me **yokshitajaiswal@gmail.com**
 
-. Rock-Paper-Scissors Game A classic Rock-Paper-Scissors game with an AI opponent, implemented using JavaScript. This project highlights my skills in game logic and user interaction.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/yokshita_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yokshita_13" height="30" width="40" /></a>
+</p>
 
-. Tic Tac Toe A multiplayer Tic Tac Toe game created using Python. It includes functionalities for multiple players and showcases my problem-solving abilities.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-. Snake Game A Snake game with leaderboard and high score tracking, developed in Python. This project emphasizes my capacity to develop complex game features and manage game state.
-
-## Skills
-1. HTML: Proficient in structuring and creating semantic web pages.
-2. CSS: Experienced in designing responsive layouts and animations.
-3. JavaScript: Skilled in developing interactive and dynamic web applications and games.
-4. Python: Knowledgeable in game development and solving problems.
-
-#### Feel free to connect with me through the following platforms :)
-
-1. Instagram: https://www.instagram.com/yokshita_13
-3. GitHub:  https://www.github.com/Yokshita13
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yokshita13&show_icons=true&locale=en&layout=compact" alt="yokshita13" /></p>

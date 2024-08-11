@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(31, 30, 30);
+}
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.lil p {
+    text-align: center;
+    font-size: 23px;
+    color: rgb(176, 119, 230);
+}
+
+h2{
+    color: deepskyblue;
+    margin-left: 22px;
+}
+
+.p1{
+    font-size: 23px;
+    color: rgb(176, 119, 230);
+    margin-top: 12px;
+    text-align: center;
+}
+
+.img-top {
+    width: 34px;
+    position: relative;
+    top: 25px;
+    left: 20px;
+}
+
+.heading{
+    margin-top: 45px;
+    color: deepskyblue;
+}
+.load img{
+    margin-top: 12px;
+    margin-left: 25px;
+}
+
+.head{
+    margin-top: 23px;
+}
+
+.social{
+    margin-top: 12px;
+}
+
+.social img{
+    text-align: center;
+    width: 30px;
+    height: 40px;
+    margin-left: 32px;
+}
+
+.gmail{
+    margin-left: 32px;
+}

@@ -25,7 +25,9 @@
 </div>
 
 ## Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yokshita13&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="display: block; margin: auto; width: 400px; height: auto;">
+<p align="left">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshita13&amp;theme=gotham&amp;layout=compact" width="15%">
+            </p>
 
 ## Connect With Me
 <div style="display: flex; align-items: center;">

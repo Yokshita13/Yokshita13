@@ -26,7 +26,7 @@
 
 ## Most Used Languages
 <p align="left">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshita13&amp;theme=gotham&amp;layout=compact" width="15%">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshita13&amp;theme=gotham&amp;layout=compact" width="30%">
             </p>
 
 ## Connect With Me

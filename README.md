@@ -42,4 +42,7 @@
     </a>
 </div>
 
+<p align="right">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshita13&amp;theme=gotham&amp;layout=compact" width="15%">
+            </p>
 

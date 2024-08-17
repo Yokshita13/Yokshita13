@@ -4,9 +4,7 @@
     <h1>Hi, I'm Yokshita</h1>
 </div>
 
-<div style="text-align: center; font-size: 23px; color: rgb(176, 119, 230);">
-    Welcome to my portfolio! I'm Yokshita, a passionate web developer with skills in HTML, CSS, JavaScript, Java and Python. This portfolio highlights my projects, showcasing my ability to create both engaging web applications and innovative games.
-</div>
+
 
 <img src="https://camo.githubusercontent.com/1bccf360b3176699c2311bb48cc462b14bd872cdbc12775a68a2d18c823be833/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f443536323241514866706a4c32333445436c772f6665656473686172652d736872696e6b5f323034385f313533362f302f313639333931313736373132383f653d3231343734383336343726763d6265746126743d4a325a476f6d66565f4f457a434b35374d48486f475741593863386b6d7a616c7076513635744e38623430" alt="coding" width="300" height="auto" style="display:block; margin:auto;">
 

@@ -40,5 +40,4 @@
     </a>
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yokshita13&label=Visitors%20&color=0e75b6&style=flat"
-        alt="yokshita13" /> </p>
+

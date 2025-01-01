@@ -4,10 +4,6 @@
     <h1>Hi, I'm Yokshita</h1>
 </div>
 
-<div class="gif">
-            <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"
-                alt="coding" srcset="" width="300px" align="right">
-        </div>
 
 <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="coding" width="300" height="auto" style="display:block; margin:auto;">
 

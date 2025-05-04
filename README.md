@@ -9,7 +9,12 @@
 
 ## About Me
 <div style="font-size: 23px; color: rgb(176, 119, 230); margin-top: 12px; text-align: center;">
-    I'm a 17-year-old kid with a keen interest in creating dynamic and visually appealing websites. My journey began with learning the basics of web development and has since evolved into a passion for building interactive applications and games. I am committed to continuous learning and improving my skills in the ever-evolving field of technology.
+💻 Passionate about code | 🌱 Constantly evolving
+🐍 Python lover | 💡 Web Developer | 🎮 Game Dev in progress
+🔥 Driven by curiosity, creativity & a bit of chaos
+💬 "Code is my canvas, and logic is my paint."
+🌐 Portfolio: yokshita13.github.io
+📬 Let’s connect: Instagram | GitHub
 </div>
 
 ## Languages

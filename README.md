@@ -43,9 +43,10 @@
     <a href="mailto:yokshitajaiswal@gmail.com" style="margin-left: 32px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="40">
     </a>
-    <a href="🔗 www.linkedin.com/in/yokshita-jaiswal-54a334377" style="margin-left: 32px;">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png)" alt="LinkedinIn" width="30" height="40">
-    </a>
+    <a href="https://www.linkedin.com/in/yokshita-jaiswal-54a334377" style="margin-left: 32px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="40">
+</a>
+
 </div>
 
 

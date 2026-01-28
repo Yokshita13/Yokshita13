@@ -34,7 +34,7 @@
 
 ## Connect With Me
 <div style="display: flex; align-items: center;">
-    <a href="https://instagram.com/yokshita_13" style="margin-left: 32px;">
+    <a href="https://instagram.com/yokshita.13" style="margin-left: 32px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="40">
     </a>
     <a href="https://github.com/Yokshita13" style="margin-left: 32px;">

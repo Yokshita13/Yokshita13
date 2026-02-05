@@ -10,7 +10,7 @@
 ## About Me
 <div style="font-size: 23px; color: rgb(176, 119, 230); margin-top: 12px; text-align: center;">
 💻 Passionate about code | 🌱 Constantly evolving
-🐍 Python lover | 💡 Web Developer | 🎮 Game Dev in progress
+🐍 Python lover | 💡 Web Developer | 🎮 Game Dev in progress 
 🔥 Driven by curiosity, creativity & a bit of chaos
 💬 "Code is my canvas, and logic is my paint."
 🌐 Portfolio: yokshita13.github.io

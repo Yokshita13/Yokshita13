@@ -9,12 +9,11 @@
 
 ## About Me
 <div style="font-size: 23px; color: rgb(176, 119, 230); margin-top: 12px; text-align: center;">
-💻 Passionate about code | 🌱 Constantly evolving
-🐍 Python lover | 💡 Web Developer | 🎮 Game Dev in progress
-🔥 Driven by curiosity, creativity & a bit of chaos
-💬 "Code is my canvas, and logic is my paint."
+💻 Coding with logic & creativity
+⚡ DSA | OOP | Problem Solving
+🔥 Turning logic into efficient solutions
+🚀 Building skills one commit at a time
 🌐 Portfolio: yokshita13.github.io
-📬 Let’s connect: Instagram | GitHub
 </div>
 
 ## Languages

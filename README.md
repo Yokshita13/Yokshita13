@@ -14,7 +14,7 @@
 🐍 Python | ☕ Java | 💻 C++ | 🌐 HTML • CSS • JS  
 📊 Exploring AI & Data Science  
 🚀 Consistently learning and improving  
-🌐 Portfolio: https://yokshita13.github.io
+🌐 Portfolio: https://Yokshita13.github.io
 </div>
 
 ## Languages

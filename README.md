@@ -9,11 +9,12 @@
 
 ## About Me
 <div style="font-size: 23px; color: rgb(176, 119, 230); margin-top: 12px; text-align: center;">
-💻 Coding with logic & creativity
-⚡ DSA | OOP | Problem Solving
-🔥 Turning logic into efficient solutions
-🚀 Building skills one commit at a time
-🌐 Portfolio: yokshita13.github.io
+💻 CS Student passionate about building and problem solving  
+⚡ DSA | OOP | Algorithms | Clean Code  
+🐍 Python | ☕ Java | 💻 C++ | 🌐 HTML • CSS • JS  
+📊 Exploring AI & Data Science  
+🚀 Consistently learning and improving  
+🌐 Portfolio: https://yokshita13.github.io
 </div>
 
 ## Languages
@@ -27,10 +28,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="34" height="34">
 </div>
 
-## Most Used Languages
-<p align="left">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshita13&amp;theme=gotham&amp;layout=compact" width="35%">
-            </p>
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshita13&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+</p>
 
 ## Connect With Me
 <div style="display: flex; align-items: center;">

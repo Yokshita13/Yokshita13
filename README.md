@@ -28,11 +28,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="34" height="34">
 </div>
 
-## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshita13&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
-</p>
-
 ## Connect With Me
 <div style="display: flex; align-items: center;">
     <a href="https://instagram.com/shuddhi.13" style="margin-left: 32px;">

@@ -16,15 +16,19 @@
 🚀 Learning, building, and improving one project at a time
 </div>
 
-## Languages
+## Skills
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://haxe.org/img/platforms/python.png" alt="Python" width="34" height="34" style="margin-bottom: 10px;">
+    <!-- <img src="https://haxe.org/img/platforms/python.png" alt="Python" width="34" height="34" style="margin-bottom: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/256/3128/3128323.png" alt="HTML" width="34" height="34" style="margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd5pI-fCm6-f8MgCYixEFDONoL3XscHaRT82gWy7W-a0F0j5B6i2v02eU&s=10)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxsohILwpUXTL0r_dp7czBqpCxoHV5EdIw6dMX7nvJi4kv5wHeCI04-aG&s=10)" alt="CSS" width="34" height="34" style="margin-bottom: 10px;">
     <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7-QSbrTDw-udyB0dgf9D0-vdxKg8GC8wG3v-c3XdeA&s)" alt="JavaScript" width="34" height="34" style="margin-bottom: 10px;">
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="34" height="34">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Java" width="34" height="34"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="34" height="34">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="34" height="34"> -->
+   Python • C++ • Java • JavaScript
+   DSA • OOP • Algorithms • Problem Solving
+   HTML • CSS • SQL
+   Pandas • NumPy • Matplotlib
+   Data Analysis • Machine Learning
+   Git • GitHub 
 </div>
 
 ## Connect With Me
